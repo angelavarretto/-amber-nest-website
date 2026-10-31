@@ -1,0 +1,17 @@
+backend:
+  name: turbo-github
+  turbo_site_id: 102daefd-a422-48e0-9156-c0fe57df5625
+  branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "amber_nest"
+    label: "Amber Nest"
+    files:
+      - name: "website"
+        label: "Website"
+        file: "content/website.yml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
