@@ -7,11 +7,27 @@ media_folder: "uploads"
 public_folder: "/uploads"
 
 collections:
-  - name: "amber_nest"
-    label: "Amber Nest"
+  - name: "products"
+    label: "Products"
+    files:
+      - name: "catalog"
+        label: "Product Collection"
+        file: "content/products.yml"
+        fields:
+          - label: "Products"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Product name", name: "name", widget: "string" }
+              - { label: "Photo", name: "image", widget: "image" }
+              - { label: "Description", name: "description", widget: "text", required: false }
+
+  - name: "website"
+    label: "Website"
     files:
       - name: "website"
-        label: "Website"
+        label: "Website Text"
         file: "content/website.yml"
         fields:
           - { label: "Title", name: "title", widget: "string" }
