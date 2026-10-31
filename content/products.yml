@@ -1,40 +1,31 @@
 products:
-  - name: "Baltic Amber & Green Aventurine"
-    image: "/green.webp"
+  - name: Baltic Amber & Green Aventurine TEST
+    image: /green.webp
     description: ""
-
-  - name: "Baltic Amber & Red Charm"
-    image: "/red.webp"
+  - name: Baltic Amber & Red Charm
+    image: /red.webp
     description: ""
-
-  - name: "Cherry Amber"
-    image: "/cherry.webp"
+  - name: Cherry Amber
+    image: /cherry.webp
     description: ""
-
-  - name: "Amber Chips"
-    image: "/chips.webp"
+  - name: Amber Chips
+    image: /chips.webp
     description: ""
-
-  - name: "Natural Baltic Amber"
-    image: "/natural.webp"
+  - name: Natural Baltic Amber
+    image: /natural.webp
     description: ""
-
-  - name: "Baltic Amber & Blue Tiger Eye"
-    image: "/blue.webp"
+  - name: Baltic Amber & Blue Tiger Eye
+    image: /blue.webp
     description: ""
-
-  - name: "Classic Baltic Amber"
-    image: "/classic.webp"
+  - name: Classic Baltic Amber
+    image: /classic.webp
     description: ""
-
-  - name: "Baltic Amber Mix"
-    image: "/mix.webp"
+  - name: Baltic Amber Mix
+    image: /mix.webp
     description: ""
-
-  - name: "Baltic Amber & Rose Quartz"
-    image: "/rose.webp"
+  - name: Baltic Amber & Rose Quartz
+    image: /rose.webp
     description: ""
-
-  - name: "Baltic Amber, Amazonite & Azurite"
-    image: "/amazonite.webp"
+  - name: Baltic Amber, Amazonite & Azurite
+    image: /amazonite.webp
     description: ""
