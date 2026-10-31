@@ -1,5 +1,5 @@
 products:
-  - name: Baltic Amber & Green Aventurine TEST
+  - name: "Baltic Amber & Green Aventurine "
     image: /green.webp
     description: ""
   - name: Baltic Amber & Red Charm
@@ -14,7 +14,7 @@ products:
   - name: Natural Baltic Amber
     image: /natural.webp
     description: ""
-  - name: Baltic Amber & Blue Tiger Eye
+  - name: Amber & Blue Tiger Eye
     image: /blue.webp
     description: ""
   - name: Classic Baltic Amber
@@ -23,9 +23,9 @@ products:
   - name: Baltic Amber Mix
     image: /mix.webp
     description: ""
-  - name: Baltic Amber & Rose Quartz
+  - name: Amber & Rose Quartz
     image: /rose.webp
     description: ""
-  - name: Baltic Amber, Amazonite & Azurite
+  - name: Amber, Amazonite & Azurite
     image: /amazonite.webp
     description: ""
