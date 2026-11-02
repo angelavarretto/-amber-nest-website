@@ -1,31 +1,41 @@
 products:
-  - name: "Baltic Amber & Green Aventurine "
-    image: /green.webp
-    description: ""
-  - name: Baltic Amber & Red Charm
-    image: /red.webp
-    description: ""
-  - name: Cherry Amber
-    image: /cherry.webp
-    description: ""
-  - name: Amber Chips
-    image: /chips.webp
-    description: ""
-  - name: Natural Baltic Amber
-    image: /natural.webp
-    description: ""
-  - name: Amber & Blue Tiger Eye
-    image: /blue.webp
-    description: ""
-  - name: Classic Baltic Amber
-    image: /classic.webp
-    description: ""
-  - name: Baltic Amber Mix
-    image: /mix.webp
-    description: ""
-  - name: Amber & Rose Quartz
-    image: /rose.webp
-    description: ""
-  - name: Amber, Amazonite & Azurite
-    image: /amazonite.webp
-    description: ""
+- name: Baltic Amber & Green Aventurine
+  image: /green.webp
+  image2: /green-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Baltic Amber & Red Charm
+  image: /red.webp
+  image2: /red-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Cherry Amber
+  image: /cherry.webp
+  image2: /cherry-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Amber Chips
+  image: /chips.webp
+  image2: /chips-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Natural Baltic Amber
+  image: /natural.webp
+  image2: /natural-2.webp
+  description: 'Length: ~32 cm / 12.6 inches · Matte finish.'
+- name: Amber & Blue Tiger Eye
+  image: /blue.webp
+  image2: /blue-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Classic Baltic Amber
+  image: /classic.webp
+  image2: /classic-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Baltic Amber Mix
+  image: /mix.webp
+  image2: /mix-32-2.webp
+  description: Available in 32 cm / 12.6 in & 38 cm / 15 in
+- name: Amber & Rose Quartz
+  image: /rose.webp
+  image2: /rose-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
+- name: Amber, Amazonite & Azurite
+  image: /amazonite.webp
+  image2: /amazonite-2.webp
+  description: 'Length: ~32 cm / 12.6 inches'
